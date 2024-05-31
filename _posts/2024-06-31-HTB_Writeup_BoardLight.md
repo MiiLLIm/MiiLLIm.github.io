@@ -1,3 +1,10 @@
+---
+title: HTB Writeup BoardLight
+date: 2024-06-31 
+categories: [HTB]
+tags: [HTB,CTF]
+---
+
 # HTB Writeup: BoardLight
 
 [PWNED:Date](https://www.hackthebox.com/achievement/machine/1966580/603)
