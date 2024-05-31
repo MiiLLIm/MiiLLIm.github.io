@@ -2,10 +2,6 @@
 title: HTB Writeup: BoardLight
 author: MiiLLIm
 date: 01-06-2024
-image:
-  path: 
-  height: 800
-  width: 500
 ---
 
 
