@@ -1,3 +1,16 @@
+---
+title: HTB Writeup: BoardLight
+author: MiiLLIm
+date: 01-06-2024
+image:
+  path: 
+  height: 800
+  width: 500
+---
+
+
+
+
 # HTB Writeup: BoardLight
 
 [PWNED:Date](https://www.hackthebox.com/achievement/machine/1966580/603)
