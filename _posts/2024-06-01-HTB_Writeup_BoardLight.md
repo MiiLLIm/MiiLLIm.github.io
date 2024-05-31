@@ -3,7 +3,7 @@ author: MiiLLIm
 title: HTB Writeup BoardLight
 date: 2024-06-01
 image:
-  path: https://pbs.twimg.com/media/GDkfNA1asAAJz8P?format=jpg&name=medium###Q1NVe3hwbnRfMTB2MzVfbTRydS1jaDRufQ==](https://raw.githubusercontent.com/MiiLLIm/MiiLLIm.github.io/main/assets/images/BoardLight.png
+  path: https://raw.githubusercontent.com/MiiLLIm/MiiLLIm.github.io/main/assets/images/BoardLight.png
   height: 1500
   width: 500
 ---
