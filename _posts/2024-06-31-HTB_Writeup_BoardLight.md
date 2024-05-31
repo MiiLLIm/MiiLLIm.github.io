@@ -1,12 +1,3 @@
----
-title: HTB Writeup: BoardLight
-author: MiiLLIm
-date: 2024-31-06
-categories: [HTB]
-tags: [CTF,HTB]
----
-
-
 # HTB Writeup: BoardLight
 
 [PWNED:Date](https://www.hackthebox.com/achievement/machine/1966580/603)
