@@ -1,8 +1,6 @@
 ---
 title: HTB Writeup BoardLight
 date: 2024-06-01
-categories: [HTB]
-tags: [HTB,CTF]
 ---
 
 # HTB Writeup: BoardLight
