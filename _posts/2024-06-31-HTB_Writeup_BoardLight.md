@@ -1,7 +1,7 @@
 ---
 title: HTB Writeup: BoardLight
 author: MiiLLIm
-date: 01-06-2024
+date: 2024-31-06
 categories: [HTB]
 tags: [CTF,HTB]
 ---
